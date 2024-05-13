@@ -441,14 +441,35 @@ button {cursor: pointer;}
     border-radius: 4px;
     width: 264px;
     height: 40px;
-    padding-left: 16px;
-    padding-top: 8px;}
+   /* padding-left: 16px;
+    padding-top: 8px;*/}
 
 
     .foter-form-input::placeholder{
     color: #FFFFFF;
     
 }
+
+.footer-subscribe{}
+
+.footer-form-wrapper{}
+
+.foter-form-input{}
+
+.footer-close-btn{
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #fff;
+    width: 165px;
+    height: 40px;
+    background: #4d5ae5;
+    border: none;}
+
+.footer-close-btn-icon{}
 
 /*=============Backdrop============*/
 
