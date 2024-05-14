@@ -595,6 +595,7 @@ button {cursor: pointer;}
 
 .review-form-input-wrapper{
     position: relative;
+    margin-bottom: 16px;
 }
 
 .review-form-field-icon{
