@@ -565,7 +565,7 @@ button {cursor: pointer;}
     text-align: center;
     color: #2e2f42;
 }
-.review-form-wrapper{}
+.review-form-wrapper{margin-bottom: 8px;}
 
 .review-form-field-label{
     font-size: 12px;
