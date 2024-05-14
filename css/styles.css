@@ -420,56 +420,56 @@ button {cursor: pointer;}
 .footer-a:focus{
     fill: #31d0aa;
     background-color: #31d0aa;}
- 
-.footer-subscribe{margin-left: 80px;}
 
-.footer-list-icon{fill: #f4f4fd;}    
-
-.footer-subscribe{font-weight: 500;
+    
+.footer-div-subscribe{font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #fff;}
+    color: #fff;
+    margin-left: 80px;
+    margin-top: 100px;}
 
-.review-form-wrapper {padding-top: 8px;
-    }
+.footer-subscribe{
+    margin-bottom: 16px;
+}    
 
-.footer-form-field-label{}
+.foter-form-wrapper {}
 
-.foter-form-input{background: #2e2f42;
-    border: 1px solid #ffff;
+.footer-form-field-label {
+    margin-top: 16px;
+}
+
+.foter-form-input {border: 1px solid #fff;
     border-radius: 4px;
     width: 264px;
     height: 40px;
-   /* padding-left: 16px;
-    padding-top: 8px;*/}
+    background: #2e2f42;
+    padding-left: 16px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;}
+
+.foter-form-input::placeholder{color: #FFFFFF;}
 
 
-    .foter-form-input::placeholder{
-    color: #FFFFFF;
-    
-}
-
-.footer-subscribe{}
-
-.footer-form-wrapper{}
-
-.foter-form-input{}
-
-.footer-close-btn{
-    border-radius: 4px;
+.footer-close-btn{border-radius: 4px;
+    width: 165px;
+    height: 40px;
+    background: #4d5ae5;
+    border: none;
+    color: #fff;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    text-align: center;
-    color: #fff;
-    width: 165px;
-    height: 40px;
-    background: #4d5ae5;
-    border: none;}
+    padding-bottom: 8px;
+    padding-top: 8px;}
 
-.footer-close-btn-icon{}
+.footer-close-btn-icon{
+    
+    
+}
 
 /*=============Backdrop============*/
 
