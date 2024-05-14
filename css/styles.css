@@ -551,10 +551,6 @@ button {cursor: pointer;}
 .modal-close-btn:focus{
     background-color: #404bbf;
     border: none;}
-/*
-.modal-close-btn-icon:hover,
-.modal-close-btn-icon:focus{fill:#ffffff;}
-*/
 
 .modal-close-btn:focus .modal-close-btn-icon,
 .modal-close-btn:hover .modal-close-btn-icon {fill:#ffff;}
