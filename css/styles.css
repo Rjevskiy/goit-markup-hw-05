@@ -406,7 +406,7 @@ button {cursor: pointer;}
 .footer-list-link{width: 40px;
     height: 40px;}
 
-.footer-a{ fill: #4d5ae5;
+.footer-a{ fill: #ffff;
     width: 100%;
     height: 100%;
     background-color:  #4d5ae5;
@@ -433,6 +433,9 @@ button {cursor: pointer;}
 .footer-subscribe{
     margin-bottom: 16px;
 }    
+.footer-form{display: flex;
+    gap 24px}
+
 
 .foter-form-wrapper {}
 
