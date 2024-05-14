@@ -512,9 +512,10 @@ button {cursor: pointer;}
     left: 50%;
     transform: translate(-50%,-50%);
     fill: #e7e9fc;
-    padding-top: 76px;
-    padding-left: 31px;
-    padding-right: 17px;
+    padding-top: 72px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 24px;
     stroke-width: 1px;
     stroke: rgba(0, 0, 0, 0.1);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);}
@@ -551,9 +552,10 @@ button {cursor: pointer;}
 .modal-close-btn:focus{
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
 }
 
-.review-form-description{
+.review-form-description{margin-bottom: 16px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -561,9 +563,7 @@ button {cursor: pointer;}
     text-align: center;
     color: #2e2f42;
 }
-.review-form-wrapper{
-    margin-bottom: 8px;
-}
+.review-form-wrapper{}
 
 .review-form-field-label{
     font-size: 12px;
