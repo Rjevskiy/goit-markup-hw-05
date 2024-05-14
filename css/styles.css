@@ -434,7 +434,8 @@ button {cursor: pointer;}
     margin-bottom: 16px;
 }    
 .footer-form{display: flex;
-    gap 24px}
+    gap: 24px;
+}
 
 
 
