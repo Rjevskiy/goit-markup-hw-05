@@ -572,7 +572,6 @@ button {cursor: pointer;}
 .review-form-field-label{
     line-height: 1.17;
     font-size: 12px;
-    line-height: 1.16667;
     letter-spacing: 0.04em;
     color: #8e8f99;
     display: block;
@@ -598,6 +597,7 @@ button {cursor: pointer;}
 .review-form-input-wrapper{
     position: relative;
 }
+
 .review-form-field-icon{
     position: absolute;
     top: 50%;
